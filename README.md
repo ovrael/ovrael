@@ -10,7 +10,7 @@ In my free time I love:
 * playing computer games 🎮
 * reading books 📚
 * listening to music 🎵 
-* meeting with frirends 🍻
+* meeting with friends 🍻
 
 
 ![Create of computer](Me.png)
