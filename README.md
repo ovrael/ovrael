@@ -1,8 +1,8 @@
 ![General Kenobi](HelloThere.gif)
 
-My name is Jacek and I am IT student at University of Economics in Katowice 🎓
+My name is Jacek and I am programmer specialized mainly in C# (but use and like other languages too!)
 <br>
-I like programming (mainly math 📐) applications and the language I use the most is C#.
+I'm into writing math applications or algorithms based on nature.
 <br>
 <br>
 In my free time I love:
