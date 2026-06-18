@@ -11,6 +11,3 @@ In my free time I love:
 * reading books 📚
 * listening to music 🎵 
 * meeting with friends 🍻
-
-
-![Create of computer](Me.png)
