@@ -1,13 +1,22 @@
 ![General Kenobi](HelloThere.gif)
 
-My name is Jacek and I am programmer specialized mainly in C# (but use and like other languages too!)
-<br>
-I'm into writing math applications or algorithms based on nature.
-<br>
-<br>
-In my free time I love:
-* doing sports 💪 (especially capoeira 🤸‍♂️ and bike 🚴‍♂️)
-* playing computer games 🎮
-* reading books 📚
-* listening to music 🎵 
-* meeting with friends 🍻
+# Jacek | C# & TypeScript Developer
+
+I write code, break things, fix them, and occasionally pretend everything was planned from the beginning.
+
+Professional software development since 2022 and still going
+
+## Main tools
+
+* C# / .NET
+* TypeScript
+* Visual Studio Code
+* Linux & Windows
+
+## Interests
+
+* Building software such as tools, visualisations, minigames and simulations
+* Learning new technologies
+* Algorithms and problem solving
+* Video games
+* Cycling & Capoeira
